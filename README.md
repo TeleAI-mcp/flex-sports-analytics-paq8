@@ -1,2 +1,3 @@
-# flex-sports-analytics-paq8
-Repository to test GitHub automation for issue management
+# Flex Sports Analytics Paq8
+
+A repository to test GitHub automation for issue management.
